@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/" alt="Femy Cover" width="800"/>
+  <img src="assets/cover.png" alt="Femy Cover" width="800"/>
 </p>
 
 # **Femy**
