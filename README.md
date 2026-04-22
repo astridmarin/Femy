@@ -57,8 +57,8 @@ The prototypes illustrate the main features of the application, including cycle 
 
 ## **Preview**
 <p align="center">
-  <img src="./assets/mockups/login/login_02_loading.png" width="45%"/>
-  <img src="./assets/mockups/calendar/calendar_01_with-data.png" width="45%"/>
+  <img src="./assets/mockups/03-login/login_02_loading.png" width="45%"/>
+  <img src="./assets/mockups/10-calendar/calendar_01_with-data.png" width="45%"/>
 </p>
 
 
